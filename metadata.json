@@ -1,0 +1,6 @@
+{
+  "name": "Obsidian Orbit",
+  "description": "Meeting intelligence assistant with real-time transcriptions, AI-driven insights, and vector-searchable archives.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
